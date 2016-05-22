@@ -3,7 +3,7 @@
 
 
 
-puts "abcdefgh"
+
 
 puts "xyzpqr"
 
